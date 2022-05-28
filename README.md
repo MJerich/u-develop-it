@@ -3,7 +3,7 @@
 
 ## Description
 
-A Node.js application that allows users to vote or add cindates to a mySQl ballot database.
+A Node.js application that allows users to vote or add candidates to a mySQl ballot database.
 
 
 ## Questions
